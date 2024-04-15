@@ -1,5 +1,5 @@
-## double-pendulum
-## bang it
+## double-pendulum code for js object in max
 ## 
- scheduler rate double pendulum object 
+## 
+ written in ES5 double pendulum object is driven by bang and gives scheduler control signal;
 
